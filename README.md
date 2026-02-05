@@ -44,3 +44,11 @@ reproducibility and transparency.
 - Sector performance is measured using **ETF total return proxies**, assuming dividends
   are reinvested.
 
+## Preliminary Findings (H1)
+
+The analysis confirms that sector performance varies meaningfully across interest rate regimes.
+Technology stocks perform strongest during stable rate environments, while Energy and defensive
+sectors show relatively stronger performance during declining rate periods. These results
+suggest that sector allocation strategies should be adapted to the prevailing interest rate
+regime rather than applied uniformly.
+
