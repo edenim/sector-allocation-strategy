@@ -110,3 +110,8 @@ This analysis focuses on sector-level ETF proxies and monthly data, which may
 mask intra-month dynamics and stock-specific effects. Future research could
 extend the framework by incorporating firm-level data, alternative macroeconomic
 indicators, or international market comparisons.
+
+## Project Structure
+
+- `python/`: Data collection, analysis, and strategy simulation
+- `r/`: Statistical validation 
