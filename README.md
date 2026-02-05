@@ -113,5 +113,5 @@ indicators, or international market comparisons.
 
 ## Project Structure
 
-- `python/`: Data collection, analysis, and strategy simulation
-- `r/`: Statistical validation 
+- `python`: Data collection, analysis, and strategy simulation
+- `r`: Statistical validation 
