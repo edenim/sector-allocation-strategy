@@ -52,3 +52,61 @@ sectors show relatively stronger performance during declining rate periods. Thes
 suggest that sector allocation strategies should be adapted to the prevailing interest rate
 regime rather than applied uniformly.
 
+## Findings on Rising Rate Environments (H2)
+
+H2 hypothesized that Financials and Energy sectors would outperform the broader market
+during rising interest rate environments.
+
+However, the empirical results indicate that this relationship is not consistent.
+While Financials and Energy perform adequately in certain periods, they do not
+systematically dominate sector returns during rate hikes. In several instances,
+Technology and defensive sectors exhibit comparable or superior performance.
+
+These findings suggest that rising interest rates alone are insufficient to explain
+sector-level outperformance, and that broader macroeconomic and earnings-related factors
+play a critical role during tightening cycles.
+
+## Findings on Falling Rate Environments (H3)
+
+H3 proposed that Technology-oriented sectors would outperform during declining
+interest rate environments, reflecting improved growth expectations and lower
+discount rates.
+
+The analysis shows that Technology does not uniformly lead sector performance
+during falling rate periods. Instead, sectors such as Energy and Health Care often
+demonstrate strong returns, indicating that rate cuts frequently coincide with
+broader economic transitions rather than directly benefiting growth-oriented sectors.
+
+This suggests that declining interest rates should be interpreted in a broader
+macroeconomic context when forming sector allocation strategies.
+
+## Strategic Implications
+
+The findings suggest that sector allocation strategies should not rely solely on the
+direction of interest rate movements. While interest rates influence market conditions,
+sector-level performance is shaped by a combination of macroeconomic dynamics, earnings
+expectations, and regime-specific factors.
+
+A regime-based approach to sector allocation—adjusting exposure based on broader
+interest rate environments rather than fixed assumptions—can provide more flexibility
+than static sector positioning. In particular, Technology and defensive sectors may
+remain competitive even during tightening cycles, while traditional rate-sensitive
+sectors do not consistently dominate returns.
+
+These results highlight the importance of adaptive, data-driven allocation frameworks
+when forming investment or strategic recommendations.
+
+## Risk-Adjusted Performance (H4)
+
+Evaluating sector strategies based solely on returns can be misleading.
+Incorporating volatility and risk-adjusted metrics such as the Sharpe ratio
+provides a more comprehensive assessment of strategy effectiveness. The
+risk-adjusted analysis reinforces the need to balance performance with
+consistency when comparing allocation strategies.
+
+## Limitations and Future Work
+
+This analysis focuses on sector-level ETF proxies and monthly data, which may
+mask intra-month dynamics and stock-specific effects. Future research could
+extend the framework by incorporating firm-level data, alternative macroeconomic
+indicators, or international market comparisons.
